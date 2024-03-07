@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "meiy",
+	"description": "This is to learn",
+	"keywords": ["backend", "learn", "freecodecamp"],
+	"license": "MIT",
+	"version": "2.3.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
